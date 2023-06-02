@@ -1,6 +1,6 @@
 # simplonCloudTest
 
-Apllication Web qui permet l'emargement au differents evenements organises par simplon.
+Apllication Web qui permet l'emargement aux differents evenements organises par SIMPLON.
 
 
 Heberge sur 000webhost
