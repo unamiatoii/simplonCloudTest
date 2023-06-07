@@ -52,7 +52,7 @@ try {
     }
     header("Location: ../index.php");
 } catch (Exception $e) {
-    $_SESSION['alert_message'] = "Erreur : ".$e->getMessage()." Veuillez réessayer.";
+    $_SESSION['alert_message'] = "Erreur : " . $e->getMessage() . " Veuillez réessayer.";
     header("Location: index.php");
 }
 
