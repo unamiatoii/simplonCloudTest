@@ -9,3 +9,5 @@ ADD . /var/www/html
 
 # Exposer le port 80 pour les requêtes HTTP
 EXPOSE 80
+
+

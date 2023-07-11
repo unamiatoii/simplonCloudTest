@@ -18,3 +18,6 @@ Base de donnee myql sur db4free
     
 3- Chaque participant peut verifier sur la liste d'inscription.
 
+
+11.07.2023 : Ajout du ficher yaml pour automatiser la creation et le depot d'images docker
+; 

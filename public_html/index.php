@@ -109,7 +109,7 @@ if (isset($_SESSION['alert_message'])) {
 
 <footer>
     <a href="https://japhetpierrekonan.netlify.app">
-        @unamiatoii
+        @@unamiatoii
     </a>
 </footer>
 
