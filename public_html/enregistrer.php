@@ -50,7 +50,7 @@ try {
     } else {
         throw new Exception("Une erreur est survenue lors de l'enregistrement du participant.");
     }
-    header("Location: ../index.php");
+    header("Location: index.php");
 } catch (Exception $e) {
     $_SESSION['alert_message'] = "Erreur : " . $e->getMessage() . " Veuillez réessayer.";
     header("Location: index.php");
