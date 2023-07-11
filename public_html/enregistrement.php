@@ -3,7 +3,10 @@
 
 include('../private/infodb.php');
 
+
+//connection à la base de donnée
 $conn = new mysqli($servername, $username, $password, $dbname);
+
 if ($conn->connect_error) {
     die("Erreur de connexion à la base de données : " . $conn->connect_error);
 }
